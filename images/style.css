@@ -1,0 +1,112 @@
+/* Images */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: green;
+	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.4;
+	font-size: 16px;
+	margin: 0.25em;
+	background-image: url(img/weed.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.rounded-corners {
+	border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;
+}
+
+
+.item {
+	width:25%;
+	padding: 0.25em;
+}
+
+h2 {
+	color: white;
+	font-size: 16px;
+
+}
+
+p {
+	color: white;
+	font-size: 16px;
+}
+
+.bong{
+    border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;
+}
+.benchpress {
+	border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;
+}
+
+.bmx{
+	border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;
+}
+
+.grotto{
+	border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;
+}
+
+.skatepark{
+    border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;	
+}
+
+.paint{
+	border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;	
+}
+.KeithHaring{
+    border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;	
+}
+
+.Person{
+	border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;	
+}    
+
+.Banksy{
+	border-radius: 2em;
+	bottom: 1em;
+	right: 1em;
+	width: 16em;
+}
